@@ -1,129 +1,91 @@
+<div align="center">
+
 # Hey, I'm Saman 👋
 
-### Full-Stack Developer • Backend-Focused • Building Real-World Systems
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Full-Stack+Developer+%7C+Backend-Focused;Laravel+%E2%80%A2+APIs+%E2%80%A2+Databases;Building+Real-World+Business+Systems;Learning+DevOps+%26+Cloud+Infrastructure" alt="Animated intro" />
 
-I’m a software developer focused on building reliable web applications, APIs, internal platforms, and business systems.
+**Building reliable systems, clean APIs, and production-ready applications.**
 
-Most of my work revolves around **Laravel/PHP backends**, database-driven applications, API architecture, deployment, and turning real business requirements into production-ready software.
+<img src="https://img.shields.io/badge/Focus-Backend%20Engineering-0ea5e9?style=for-the-badge" alt="Backend Engineering" />
+<img src="https://img.shields.io/badge/Exploring-DevOps%20%26%20Infrastructure-8b5cf6?style=for-the-badge" alt="DevOps" />
 
-I also work across the frontend when needed with technologies like **Next.js and React**, and I’m continuously improving my DevOps and infrastructure skills.
+</div>
 
 ---
 
-## 🧑‍💻 What I Work With
+### 👨‍💻 About Me
 
-**Backend**
+I'm a full-stack developer with a backend focus. I work on **Laravel/PHP applications, REST APIs, database-driven platforms, authentication, business workflows, and production deployments**. I also build with **React and Next.js** when projects need frontend work.
 
-* PHP / Laravel
-* REST APIs
-* Authentication & Authorization
-* MySQL / PostgreSQL
+I enjoy taking complicated real-world requirements and turning them into practical, maintainable software.
+
+### ⚡ Skill Levels
+
+<!-- Upload assets/skills.svg to your GitHub profile repository. Update percentages inside the SVG to your own self-assessment. -->
+<div align="center">
+  <img src="./assets/skills.svg" alt="Animated, self-assessed technical skill percentages" width="820" />
+</div>
+
+### 🛠 Tech Stack
+
+<div align="center">
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,redis" alt="PHP Laravel MySQL PostgreSQL Redis" />
 
 **Frontend**
 
-* Next.js
-* React
-* JavaScript / TypeScript
-* Responsive & PWA applications
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css" alt="JavaScript TypeScript React Next.js HTML CSS" />
 
-**DevOps & Infrastructure**
+**DevOps & Tools**
 
-* Docker
-* Linux / Ubuntu
-* Nginx / Apache
-* Git & CI/CD
-* VPS & Production Deployment
-* Redis & Real-time architectures
-* Learning Jenkins, Ansible, Prometheus & modern DevOps workflows
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,gitlab,github,jenkins,ansible,prometheus" alt="Docker Linux Nginx Git GitLab GitHub Jenkins Ansible Prometheus" />
 
----
+</div>
 
-## 🚀 What I Build
+### 🚀 What I Build
 
-### 🏢 Enterprise & Government Platforms
+| Area | What I work on |
+|:--|:--|
+| 🏢 **Enterprise & Government Systems** | Organization workflows, role-based access, reporting, complex business logic, integrations |
+| 🛒 **E-Commerce** | Products, inventory, pricing, purchase flows, admin dashboards, permissions |
+| 🪙 **Gold Trading Platform** | Live price updates, buy/sell flows, pricing rules, trading limits, PWA dashboards |
+| ⚙️ **Deployment & Infrastructure** | Linux servers, Docker, Nginx/Apache, CI/CD, monitoring and maintainability |
 
-Working on large-scale systems involving complex workflows, organization management, user roles, reporting, integrations, and high-volume relational data.
-
-### 🛒 E-Commerce Platforms
-
-Worked on production commerce systems involving:
-
-* Products & categories
-* Inventory
-* Pricing
-* Purchase workflows
-* Admin panels
-* Permissions
-* API integrations
-
-### 🪙 Gold Trading Platform
-
-Built systems around:
-
-* Real-time pricing
-* Buy / sell workflows
-* Product-specific pricing logic
-* Admin-controlled trading availability
-* Purchase requests
-* PWA experiences
-* Live dashboard updates
-
----
-
-## 🧠 Currently Exploring
+### 🌱 Currently Leveling Up
 
 ```text
-DevOps
-├── Docker
-├── CI/CD
+DevOps journey
+├── Docker & containerization
+├── CI/CD pipelines
 ├── Jenkins
 ├── Ansible
-├── Prometheus
-└── Infrastructure & Monitoring
+├── Prometheus & monitoring
+└── Production infrastructure
 ```
 
-I’m especially interested in improving the way applications are **deployed, monitored, scaled, and maintained in production**.
+### 🎧 Beyond the Terminal
 
----
+🎤 Beatboxing · 🎧 DJing & music discovery · 🎬 Video editing · 🎥 Content creation
 
-## 🛠 Tech Stack
+> Code and music are two different ways I like building things from scratch.
 
-`PHP` `Laravel` `Yii` `MySQL` `PostgreSQL` `Redis`
-
-`JavaScript` `TypeScript` `React` `Next.js`
-
-`Docker` `Linux` `Nginx` `Apache` `Git` `GitLab CI/CD`
-
----
-
-## 🎧 Outside of Code
-
-When I'm not debugging production servers or building APIs, you'll probably find me:
-
-🎤 Beatboxing
-🎧 DJing & discovering new music
-🎬 Editing videos
-🎥 Working on content creation
-
-Code and music are basically two different ways I like building things from scratch.
-
----
-
-## 💡 How I Think About Development
+### 💭 How I Build
 
 ```php
 while ($problemExists) {
     understand();
     build();
     test();
-    breakThings();
-    fixThem();
     improve();
 }
 ```
 
-I enjoy projects where there’s a real problem to solve — especially when they involve **architecture, backend logic, integrations, performance, or turning complicated workflows into simple software**.
-
----
+<div align="center">
 
 ### Let's build something useful. 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=100&section=footer" alt="Colorful wave footer" width="100%" />
+
+</div>
