@@ -1,88 +1,33 @@
 <div align="center">
 
-# Hey, I'm Saman 👋
+<h1>Hey, I'm Saman 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Full-Stack+Developer+%7C+Backend-Focused;Laravel+%E2%80%A2+APIs+%E2%80%A2+Databases;Building+Real-World+Business+Systems;Learning+DevOps+%26+Cloud+Infrastructure" alt="Animated intro" />
+<p><strong>Full-Stack Developer · Backend Focused</strong></p>
 
-**Building reliable systems, clean APIs, and production-ready applications.**
+<p>Building practical applications, clean APIs, and reliable business systems.</p>
 
-<img src="https://img.shields.io/badge/Focus-Backend%20Engineering-0ea5e9?style=for-the-badge" alt="Backend Engineering" />
-<img src="https://img.shields.io/badge/Exploring-DevOps%20%26%20Infrastructure-8b5cf6?style=for-the-badge" alt="DevOps" />
+<a href="https://github.com/Samanbanafshekhah?tab=repositories">Explore my projects ↗</a>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### About me
 
-I'm a full-stack developer with a backend focus. I work on **Laravel/PHP applications, REST APIs, database-driven platforms, authentication, business workflows, and production deployments**. I also build with **React and Next.js** when projects need frontend work.
+- 💻 Working with **Laravel, PHP, and modern web technologies**
+- ⚙️ Building APIs, dashboards, and business applications
+- 🌱 Learning **DevOps, CI/CD, and cloud infrastructure**
+- 🎧 Outside of code: beatboxing and video editing
 
-I enjoy taking complicated real-world requirements and turning them into practical, maintainable software.
+### Tech stack
 
-### ⚡ Skill Levels
+| Area | Technologies |
+| :--- | :--- |
+| Backend | PHP · Laravel · Yii |
+| Frontend | JavaScript · React · Next.js |
+| Databases | MySQL · PostgreSQL |
+| Tools | Git · Linux · Docker |
 
-![Animated Skills](assets/skills.svg)
+### Currently exploring
 
-### 🛠 Tech Stack
-
-<div align="center">
-
-**Backend & Data**
-
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,redis" alt="PHP Laravel MySQL PostgreSQL Redis" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css" alt="JavaScript TypeScript React Next.js HTML CSS" />
-
-**DevOps & Tools**
-
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,gitlab,github,jenkins,ansible,prometheus" alt="Docker Linux Nginx Git GitLab GitHub Jenkins Ansible Prometheus" />
-
-</div>
-
-### 🚀 What I Build
-
-| Area | What I work on |
-|:--|:--|
-| 🏢 **Enterprise & Government Systems** | Organization workflows, role-based access, reporting, complex business logic, integrations |
-| 🛒 **E-Commerce** | Products, inventory, pricing, purchase flows, admin dashboards, permissions |
-| 🪙 **Gold Trading Platform** | Live price updates, buy/sell flows, pricing rules, trading limits, PWA dashboards |
-| ⚙️ **Deployment & Infrastructure** | Linux servers, Docker, Nginx/Apache, CI/CD, monitoring and maintainability |
-
-### 🌱 Currently Leveling Up
-
-```text
-DevOps journey
-├── Docker & containerization
-├── CI/CD pipelines
-├── Jenkins
-├── Ansible
-├── Prometheus & monitoring
-└── Production infrastructure
-```
-
-### 🎧 Beyond the Terminal
-
-🎤 Beatboxing · 🎧 DJing & music discovery · 🎬 Video editing · 🎥 Content creation
-
-> Code and music are two different ways I like building things from scratch.
-
-### 💭 How I Build
-
-```php
-while ($problemExists) {
-    understand();
-    build();
-    test();
-    improve();
-}
-```
-
-<div align="center">
-
-### Let's build something useful. 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=100&section=footer" alt="Colorful wave footer" width="100%" />
-
-</div>
+Docker workflows, automated deployments, and application monitoring.
