@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="440" viewBox="0 0 820 440" role="img" aria-label="Animated skill levels, self-assessed">
+<style>
+.title{font:700 23px 'Segoe UI',Arial,sans-serif;fill:#e6edf3}.note{font:13px 'Segoe UI',Arial,sans-serif;fill:#8b949e}.label{font:600 16px 'Segoe UI',Arial,sans-serif;fill:#dbe5f0}.pct{font:700 15px 'Segoe UI',Arial,sans-serif;fill:#5eead4}.track{fill:#212b3b}.bar{fill:url(#grad)}
+</style>
+<defs><linearGradient id="grad"><stop offset="0" stop-color="#06b6d4"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs>
+<rect width="820" height="440" rx="18" fill="#0d1117" stroke="#26354a"/>
+<text class="title" x="32" y="47">TECHNICAL SKILLS</text>
+<text class="note" x="32" y="73">Illustrative self-assessment • Edit these percentages to reflect your experience</text>
+<text class="label" x="34" y="114">Laravel / PHP</text><text class="pct" x="782" y="114" text-anchor="end">90%</text>
+<rect class="track" x="34" y="124" width="748" height="12" rx="6"/>
+<rect class="bar" x="34" y="124" width="0" height="12" rx="6"><animate attributeName="width" from="0" to="673" dur="1.5s" begin="0.0s" fill="freeze"/></rect>
+<text class="label" x="34" y="165">REST APIs & Backend Architecture</text><text class="pct" x="782" y="165" text-anchor="end">88%</text>
+<rect class="track" x="34" y="175" width="748" height="12" rx="6"/>
+<rect class="bar" x="34" y="175" width="0" height="12" rx="6"><animate attributeName="width" from="0" to="658" dur="1.5s" begin="0.15s" fill="freeze"/></rect>
+<text class="label" x="34" y="216">MySQL / PostgreSQL</text><text class="pct" x="782" y="216" text-anchor="end">83%</text>
+<rect class="track" x="34" y="226" width="748" height="12" rx="6"/>
+<rect class="bar" x="34" y="226" width="0" height="12" rx="6"><animate attributeName="width" from="0" to="620" dur="1.5s" begin="0.3s" fill="freeze"/></rect>
+<text class="label" x="34" y="267">React / Next.js</text><text class="pct" x="782" y="267" text-anchor="end">72%</text>
+<rect class="track" x="34" y="277" width="748" height="12" rx="6"/>
+<rect class="bar" x="34" y="277" width="0" height="12" rx="6"><animate attributeName="width" from="0" to="538" dur="1.5s" begin="0.44999999999999996s" fill="freeze"/></rect>
+<text class="label" x="34" y="318">Docker / Linux / Nginx</text><text class="pct" x="782" y="318" text-anchor="end">75%</text>
+<rect class="track" x="34" y="328" width="748" height="12" rx="6"/>
+<rect class="bar" x="34" y="328" width="0" height="12" rx="6"><animate attributeName="width" from="0" to="561" dur="1.5s" begin="0.6s" fill="freeze"/></rect>
+<text class="label" x="34" y="369">CI/CD & DevOps</text><text class="pct" x="782" y="369" text-anchor="end">65%</text>
+<rect class="track" x="34" y="379" width="748" height="12" rx="6"/>
+<rect class="bar" x="34" y="379" width="0" height="12" rx="6"><animate attributeName="width" from="0" to="486" dur="1.5s" begin="0.75s" fill="freeze"/></rect>
+</svg>
