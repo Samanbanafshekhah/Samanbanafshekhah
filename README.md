@@ -21,10 +21,7 @@ I enjoy taking complicated real-world requirements and turning them into practic
 
 ### ⚡ Skill Levels
 
-<!-- Upload assets/skills.svg to your GitHub profile repository. Update percentages inside the SVG to your own self-assessment. -->
-<div align="center">
-  <img src="./assets/skills.svg" alt="Animated, self-assessed technical skill percentages" width="820" />
-</div>
+![Animated Skills](assets/skills.svg)
 
 ### 🛠 Tech Stack
 
